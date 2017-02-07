@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Basic-JavaScript! 
+เวปนี้จัดทำขึ้นเพื่อนักเรียน,นักศึกษา , หรือผู้สนใจในการเขียนเวปไซด์ โดยใช้ภาษาจาวาสคริป. ทุกคนสามารถเรียนทำเวปไซด์ได้ด้วยตัวเองโดยไมต้องเสียเงินในการจ้างทำเวปไซด์เพียงแค่ขยันฝึกฝนหาความรู้เกี่ยวกับการทำเวป และทำให้ทันต่อเทคโนโลยีใหม่ๆ
 
-You can use the [editor on GitHub](https://github.com/plaimanus/Basic-JavaScript/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-- โรดแมพ (แผนการดำเนินการ) 1. แนะนำวิธี โฮสเวปไซด์โดยใช้ github.com เป็นตัวเก็บโค๊ดข้อมูล (เฉพาะ "FrontEnd language" javascript , Node.js) ถาษาที่ใช้ในการเขียนเวปไซด์ม รวมไปถึงการสมัครสมาชิก การดาวโหลดเรโฟ(repository) การแยกสาขาของเรโพ, การแชร์โค๊ด กับเพื่อน ร่วมทีม, และการแก้ปัญหา เมื่อเจอ (code conflicts) การแก้ไฟล์บันทัดเดียวกันหลายๆคน
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.การสร้างเวปไซด์เบื้องต้น โดยใช้ จาวาสคริป html, css.
 
-### Markdown
+3.การใช้ ออโตเมชั่นในการช่วยสร้างเวป Gulp, Grunt, Webpack(กำลังเป็นที่นิยม) ในตัวอย่างผมจะใช้ Webpack ในการสาธิต
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4.การสร้างเวปไซด์โดยใช้จาวาสคริฟเฟรมเวอร์ค (javascript framework) Angular.js, React.Js
 
-```markdown
-Syntax highlighted code block
+5.การสร้างเวปไซด์แบบ เรสปอนส์สิฟ (responsive website) โดยการใช้ Bootstrap4 (beta version) , Flexbox.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plaimanus/Basic-JavaScript/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6.การใช้รูป เวกเตอร์บนเวปเพจ (SVG images and icons)* *
